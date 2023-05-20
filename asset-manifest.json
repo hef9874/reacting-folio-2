@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reacting-folio-2/static/css/main.2325818f.css",
+    "main.js": "/reacting-folio-2/static/js/main.b7c32f87.js",
+    "static/js/787.1c805f4e.chunk.js": "/reacting-folio-2/static/js/787.1c805f4e.chunk.js",
+    "static/media/cats-off-to-ya.png": "/reacting-folio-2/static/media/cats-off-to-ya.f89f5e99327c56ee2ed6.png",
+    "static/media/evently-app.png": "/reacting-folio-2/static/media/evently-app.bf322e94bd28267d59db.png",
+    "static/media/resume.pdf": "/reacting-folio-2/static/media/resume.cf97d56556fb447d95a6.pdf",
+    "static/media/tech-blog.png": "/reacting-folio-2/static/media/tech-blog.ec5ef1590fc6426b9623.png",
+    "index.html": "/reacting-folio-2/index.html",
+    "main.2325818f.css.map": "/reacting-folio-2/static/css/main.2325818f.css.map",
+    "main.b7c32f87.js.map": "/reacting-folio-2/static/js/main.b7c32f87.js.map",
+    "787.1c805f4e.chunk.js.map": "/reacting-folio-2/static/js/787.1c805f4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2325818f.css",
+    "static/js/main.b7c32f87.js"
+  ]
+}
